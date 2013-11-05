@@ -1,3 +1,4 @@
+require "bundler/gem_tasks"
 require "rake"
 require "rspec/core/rake_task"
 Dir.glob("lib/tasks/**/*").sort.each { |ext| load(ext) }
