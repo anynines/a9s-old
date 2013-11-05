@@ -32,7 +32,7 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency "uuidtools", "~> 2.1"
 
   # Include this to make the cf command available as well.
-  s.add_runtime_dependency 'cf' , '5.4.1'
+  #s.add_runtime_dependency 'cf' , '5.4.1'
 
   s.add_development_dependency "anchorman"
   s.add_development_dependency "blue-shell", ">= 0.2.2"
