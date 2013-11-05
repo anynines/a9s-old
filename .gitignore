@@ -1,1 +1,9 @@
+*.gem
+.rbenv-gemsets
+.bundle
 pkg/*
+coverage/*
+.idea
+spec/tmp
+.pairs
+tmp
