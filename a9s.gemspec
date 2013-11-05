@@ -7,7 +7,7 @@ require "cf/version"
 
 Gem::Specification.new do |s|
   s.name        = 'a9s'
-  s.version     = '2.0.1.rc1'
+  s.version     = '2.0.2.rc1'
   s.authors     = ["Cloud Foundry Team", "Alex Suraci", "Julian Fischer", "Julian Weber", "Oliver Wolf"]
   s.email       = 'support@anynines.com'
   s.homepage    = 'http://www.anynines.com'
